@@ -5,6 +5,7 @@
 A nice and easy way to get a Minecraft server up and running using docker. For
 help on getting started with docker see the [official getting started guide][0].
 For more information on Minecraft and check out it's [website][1].
+## This is for JAVA Edition of minecraft!
 
 ### Quickstart
 
